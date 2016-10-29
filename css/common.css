@@ -1,0 +1,14 @@
+body,p,input,select,ul,ol,dl,option,h1,h2,img{
+	margin: 0;
+	border:0;
+	padding: 0;
+	list-style: none;
+	font-family: '微软雅黑';
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	font-family: '微软雅黑';
+}
